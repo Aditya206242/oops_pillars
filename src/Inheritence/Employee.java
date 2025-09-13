@@ -1,5 +1,5 @@
 package Inheritence;
-
+// this is employee class
 public class Employee extends Person {
 
     private  int salary ;

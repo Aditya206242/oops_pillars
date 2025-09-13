@@ -1,5 +1,5 @@
 package Encapsulation;
-
+///  this is student class
 public class Student {
 
     private String name;

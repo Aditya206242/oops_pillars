@@ -1,5 +1,5 @@
 package Polymorphism.MethodOverriding;
-
+// this is animal class
 public class Dog extends Animal {
     @Override
     public void speaks(){
